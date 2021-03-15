@@ -6,6 +6,6 @@ A venous thromboembolism (VTE) is a blood clot that forms within a vein and is a
 And there were four questions related with this project:
 
 1)   Is there evidence that the risk of VTE recurrence or death in the year after incident VTE differs by sex?
-2)   2)   What role, if any, does menopausal status play in differences in risk by sex? 
-3)   3)   Develop and assess a prognostic model to predict whether individuals will experience VTE recurrence or death within one year after an incident VTE. 
-4)   4)   Does the prognostic model accurately identify high risk individuals in the extension cohort? 
+2)   What role, if any, does menopausal status play in differences in risk by sex? 
+3)   Develop and assess a prognostic model to predict whether individuals will experience VTE recurrence or death within one year after an incident VTE. 
+4)   Does the prognostic model accurately identify high risk individuals in the extension cohort? 
